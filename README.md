@@ -56,11 +56,12 @@ In this repository:**
       - [2.5.13 *Imbalanced Regression*](#2513-imbalanced-regression)
       - [2.5.14 *Data Augmentation*](#2514-data-augmentation)
 - [3. Miscellaneous](#3-miscellaneous)
-  - [3.1 Datasets](#31-datasets)
-  - [3.2 Github Repositories](#32-github-repositories)
-    - [3.2.1 *Algorithms \& Utilities \& Jupyter Notebooks*](#321-algorithms--utilities--jupyter-notebooks)
-    - [3.2.2 *Paper list*](#322-paper-list)
-    - [3.2.3 *Slides*](#323-slides)
+- - [3.1 Books](#31-books)
+  - [3.2 Datasets](#32-datasets)
+  - [3.3 GitHub Repositories](#33-github-repositories)
+    - [3.3.1 *Algorithms \& Utilities \& Jupyter Notebooks*](#331-algorithms--utilities--jupyter-notebooks)
+    - [3.3.2 *Paper list*](#332-paper-list)
+    - [3.3.3 *Slides*](#333-slides)
 
 # 1. Frameworks and Libraries
 
@@ -394,7 +395,12 @@ In this repository:**
 
 # 3. Miscellaneous
 
-## 3.1 Datasets
+## 3.1 Books
+ - Foundations of Imbalanced Learning [[**pdf**](/books/foundations-imbalanced.pdf)]
+   Gary M. Weiss Fordham University
+
+## 3.2 Datasets
+
 
 - **`imbalanced-learn` datasets**
 
@@ -434,9 +440,9 @@ In this repository:**
 
   Link: https://github.com/gykovacs/mldb
 
-## 3.2 Github Repositories
+## 3.3 GitHub Repositories
 
-### 3.2.1 *Algorithms & Utilities & Jupyter Notebooks*
+### 3.3.1 *Algorithms & Utilities & Jupyter Notebooks*
 
 - [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) - Python-based implementations of algorithms for learning on imbalanced data.
 - [imbalanced-dataset-sampler](https://github.com/ufoym/imbalanced-dataset-sampler) - A (PyTorch) imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.
@@ -444,12 +450,12 @@ In this repository:**
 - [Multi-class-with-imbalanced-dataset-classification](https://github.com/javaidnabi31/Multi-class-with-imbalanced-dataset-classification) - Perform multi-class classification on imbalanced 20-news-group dataset.
 - [Advanced Machine Learning with scikit-learn: Imbalanced classification and text data](https://github.com/amueller/ml-workshop-4-of-4) - Different approaches to feature selection, and resampling methods for imbalanced data.
 
-### 3.2.2 *Paper list*
+### 3.3.2 *Paper list*
 
 - [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) by [yzhao062](https://github.com/yzhao062) - Anomaly detection related books, papers, videos, and toolboxes.
 - [Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning](https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning) - Imbalanced Time-series Classification
 
-### 3.2.3 *Slides*
+### 3.3.3 *Slides*
 
 - [acm_imbalanced_learning](https://github.com/timgasser/acm_imbalanced_learning) - slides and code for the ACM Imbalanced Learning talk on 27th April 2016 in Austin, TX.
 
